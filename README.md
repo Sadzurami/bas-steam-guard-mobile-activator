@@ -137,11 +137,9 @@ Available paths:
 -   `payload['proxy']['value']`
 -   `payload['success']`
 
-Example for [mafile](https://hashb.in/#MILgOgqgzgpgTlMBBAJgWwJYDsNQC5wCGeA9nGACIxQDWpADmDAB71l4wpIDG3iAJAG96hAJ4AbEoRQA6QrxIBXLHhmLYcLITQwAvjLSEAYhnEwAUIPMBIAERQAFoTicA+rG4u8tkAAJbQiISUrIA5orOso7Obh5eurYANDb28BiE4q5YimgARvA+/oFiktIy4ZEyGumZ2XnwCcl2LgBuJNzEGCRYrtwkKDCFAcIlIeURcLKt7Z3dvf16SSmKcBhDxcFlFZNqq40pGi3wrngYOusjm2ETUfBHcCdni0228n3KeFnag37DQaXXSpvJQqL46fZ2Ug0GA9UIYFAXf5jbayKEw1xwlAQ2zwmGnPCidwwTwwby/DYA8aVXEqDAEokkvDYuKk1wARkRoy2NyqxK87OxAxaGG4MFc8M5VypOyFIpg8OxADNFOJxISYXASKrOIUCIoYC8AMrUKBdLCFKzWOzGqCm7oASQoksphEUeAcvNtZoVSyttkNHG0ABkSHDzeTLi6FB81BotODfdbA2gQ2HjdwVj8ipGxq73TJJGniZmIXYAOowXLAEgkGgYLPZVVNJMwbSO525t0e/CtzBYxO2ADySC7ABVazCO2U8x6pF2ThOsAkbLpzLogA=).
-
 The first line of the template always specifies where to save it.
-
 You can export as many templates as you want.
+Some templates are located in examples folder.
 
 ![tab.export](./src-docs/tab.export.png)
 

@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\export\${payload.account.username}.maFile
+{
+	"shared_secret": "${payload.guard.shared_secret}",
+	"serial_number": "${payload.guard.serial_number}",
+	"revocation_code": "${payload.guard.revocation_code}",
+	"uri": "${payload.guard.uri}",
+	"server_time": "${payload.guard.server_time}",
+	"account_name": "${payload.guard.account_name}",
+	"token_gid": "${payload.guard.token_gid}",
+	"identity_secret": "${payload.guard.identity_secret}",
+	"secret_1": "${payload.guard.secret_1}",
+	"device_id": "${payload.guard.deviceid}",
+	"fully_enrolled": true,
+	"Session": {
+		"SessionID": "${payload.auth.sessionid}",
+		"SteamLogin": "${payload.account.username}",
+		"SteamLoginSecure": "${payload.auth.loginSecure}",
+		"WebCookie": null,
+		"SteamID": "${payload.auth.steamid}",
+		"OAuthToken": "${payload.auth.oauth_token}"
+	}
+}
