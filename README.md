@@ -11,9 +11,9 @@ This app logs into your account, attaches a virtual phone number and activates m
 1. Steam login
 2. Attach phone
 3. Confirmation phone attachment by link from email
-   4 Activating guard with sms and totp codes
-4. Parsing data (ex. tradelink; optional)
-5. Exporting
+4. Activating guard with sms and totp codes
+5. Parsing data (ex. tradelink; optional)
+6. Exporting
 
 # Features
 
