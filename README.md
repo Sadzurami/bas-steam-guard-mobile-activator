@@ -1,5 +1,7 @@
 # Steam Mobile Guard Activator
 
+# !NOT SUPPORTED ANYMORE!
+
 App for mass activation Steam Mobile Guard, written with BAS
 
 # How it works
